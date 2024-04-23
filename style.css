@@ -164,4 +164,5 @@ body{
     font-size: 2rem;
     font-family: var(--ff-accent);
     color: var(--clr-primary-400);
+    font-weight: var(--fw-bold);
 }   
